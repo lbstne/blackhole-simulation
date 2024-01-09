@@ -1,3 +1,3 @@
 A ray tracer with gravitational lensing
 
-[[blackhole.gif]]
+![demo](blackhole.gif)
